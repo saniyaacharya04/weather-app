@@ -68,7 +68,7 @@ You can deploy the app using services like Vercel, Netlify, or GitHub Pages. Ens
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
